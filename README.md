@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Murn Stack & DSA With C++
 - 💞️ I’m looking to collaborate on Development 
 - 📫 How to reach me :- Contact me on my Email @neerajko890@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
