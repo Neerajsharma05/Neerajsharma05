@@ -17,10 +17,11 @@ Currently exploring Backend Development and mastering Data Structures using C++.
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neerajsharma05&theme=radical)
 
 ### 🌟 Latest Projects
-- [Bubble Game](link-to-repo)  - game where you have hit random runmber 
-- [Eventify](link-to-repo) – Platform to explore events across India.
-- [BMI Calculator](link-to-repo) - Catculates your BMI
-- [Temperature Converter](link-to-repo) - Convert temperature 
+- [Bubble Game](https://neerajsharma05.github.io/Bubble-Game-/)  - game where you have hit random runmber 
+- [Eventify](https://neerajsharma05.github.io/Eventify/) – Platform to explore events across India.
+- [Calculator](https://neerajsharma05.github.io/Calculater/) - Airthmetic Calculater
+- [BMI Calculator](https://neerajsharma05.github.io/BMI-Calculater/) - Catculates your BMI
+- [Temperature Converter](https://neerajsharma05.github.io/Temperature-convert-/) - Convert temperature 
 
 
 ### 📬 Let's Connect
