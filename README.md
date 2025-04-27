@@ -1,13 +1,36 @@
-- 👋 Hi there! I'm Neeraj Sharma, a passionate Web Developer and BCA student.
-- 🌟 I specialize in Frontend development (HTML, CSS, JavaScript) and I’m expanding my skills into Backend and Data Structures.
-- 🚀 I love building dynamic websites, exploring AI, and working on real-world projects.
-- 📚 Currently learning: Backend Development | DSA with C++
-- 💞️ I’m looking to collaborate on Development 
-- 🌐 Check out my latest project: Eventify!
-- 📬 Let's connect: LinkedIn https://www.linkedin.com/in/neeraj-sharma05/
-- 📫 How to reach me :- Contact me on my Email @neerajko890@gmail.com
+# 👋 Hi, I'm Neeraj Sharma
+
+### 🚀 About Me
+I'm a passionate Web Developer and BCA student, skilled in building dynamic and responsive websites.  
+Currently exploring Backend Development and mastering Data Structures using C++.  
+
+### 🛠️ Skills
+- Frontend: HTML, CSS, JavaScript
+- Backend: Learning Node.js, Express
+- Programming: C, C++
+- Other: Git, GitHub, Photography, AI Enthusiast
+
+### 📈 My GitHub Stats
+![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajsharma05&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Neerajsharma05&theme=radical)
+
+### 🌟 Latest Projects
+- [Bubble Game](link-to-repo)  - game where you have hit random runmber 
+- [Eventify](link-to-repo) – Platform to explore events across India.
+- [BMI Calculator](link-to-repo) - Catculates your BMI
+- [Temperature Converter](link-to-repo) - Convert temperature 
 
 
+### 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/neeraj-sharma05/)
+- [Instagram](https://www.instagram.com/neeraj_sharma05/?__pwa=1)
+- [Twitter (X)](https://x.com/mr__sharma05)
+
+---
+
+⭐️ Feel free to explore my repositories and reach out for collaborations!
 
 
 
