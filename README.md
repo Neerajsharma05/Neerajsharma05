@@ -5,7 +5,7 @@ I'm a passionate Web Developer and BCA student, skilled in building dynamic and 
 Currently exploring Backend Development and mastering Data Structures using C++.  
 
 ### 🛠️ Skills
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript React js 
 - Backend: Learning Node.js, Express
 - Programming: C, C++
 - Other: Git, GitHub, Photography, AI Enthusiast
@@ -17,6 +17,7 @@ Currently exploring Backend Development and mastering Data Structures using C++.
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neerajsharma05&theme=radical)
 
 ### 🌟 Latest Projects
+- [Recipe App](https://neerajsharma05.github.io/Recipe-App/) - App  where you can find different types of recips 
 - [Bubble Game](https://neerajsharma05.github.io/Bubble-Game-/)  - game where you have hit random runmber 
 - [Eventify](https://neerajsharma05.github.io/Eventify/) – Platform to explore events across India.
 - [Calculator](https://neerajsharma05.github.io/Calculater/) - Airthmetic Calculater
